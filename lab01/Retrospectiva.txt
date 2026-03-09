@@ -1,0 +1,19 @@
+1. ¿Cuál fue el tiempo total invertido en el laboratorio por cada uno de ustedes? (Horas/Hombre)
+las 3 horas del lab
+
+2. ¿Cuál es el estado actual del laboratorio? ¿Por qué?
+terminado en su totalidad, se desarrollaron todos los puntos y preguntas
+
+3. ¿Cuál consideran fue el mayor logro? ¿Por qué?
+entender las nuevas funciones de haskell
+
+4. ¿Cuál consideran que fue el mayor problema técnico? ¿Qué hicieron para resolverlo?
+entender como utilizar haskell, toco leer y preguntar al profe para resolverlo
+
+5. ¿Qué hicieron bien como equipo? ¿Qué se comprometen a hacer para mejorar los resultados?
+era individual
+
+6. ¿Qué referencias usaron? ¿Cuál fue la más útil? Incluyan citas con estándares adecuados.
+https://www.haskell.org/documentation/
+https://www.google.com
+
