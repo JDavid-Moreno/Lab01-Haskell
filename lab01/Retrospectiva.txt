@@ -1,3 +1,5 @@
+Integrantes: Juan David Moreno D'Aleman, Daniel Jose Villamizar Castellanos
+
 1. ¿Cuál fue el tiempo total invertido en el laboratorio por cada uno de ustedes? (Horas/Hombre)
 las 3 horas del lab
 
@@ -11,7 +13,7 @@ entender las nuevas funciones de haskell
 entender como utilizar haskell, toco leer y preguntar al profe para resolverlo
 
 5. ¿Qué hicieron bien como equipo? ¿Qué se comprometen a hacer para mejorar los resultados?
-era individual
+buena comunicacion y compromiso con terminar el lab
 
 6. ¿Qué referencias usaron? ¿Cuál fue la más útil? Incluyan citas con estándares adecuados.
 https://www.haskell.org/documentation/
